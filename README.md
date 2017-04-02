@@ -1,4 +1,4 @@
-# Fruit Store
+# Fruits Store
 
 A React and Redux demo.
 
