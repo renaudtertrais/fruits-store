@@ -18165,7 +18165,7 @@ var CartItem = function CartItem(_ref) {
     { className: 'CartItem' },
     _react2.default.createElement('img', {
       className: 'CartItem__image',
-      src: '/assets/images/' + name + '.svg',
+      src: 'assets/images/' + name + '.svg',
       alt: name
     }),
     _react2.default.createElement(
@@ -18518,7 +18518,7 @@ var ProductListItem = function ProductListItem(_ref) {
     renderPromotion(promotion),
     _react2.default.createElement('img', {
       className: 'ProductListItem__image',
-      src: '/assets/images/' + name + '.svg',
+      src: 'assets/images/' + name + '.svg',
       alt: name
     }),
     _react2.default.createElement(
