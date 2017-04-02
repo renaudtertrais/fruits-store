@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="79px" height="139px" viewBox="0 0 79 139" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Pear</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Pear" transform="translate(2.000000, 2.000000)">
+            <path d="M36.626,40.711 C36.626,40.711 38.194,22.032 54.307,21.176" id="Stroke-203" stroke="#A5876B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M63.309,72.795 C61.312,65.38 59.726,39.143 37.481,39.143 C15.237,39.143 13.597,65.38 11.6,72.795 C9.604,80.21 0.157,90.477 0.157,103.881 C0.157,117.285 7.536,134.681 37.481,134.681 C67.426,134.681 74.779,117.285 74.779,103.881 C74.779,90.477 65.305,80.21 63.309,72.795" id="Fill-204" fill="#F6C279"></path>
+            <path d="M63.309,72.795 C61.312,65.38 59.726,39.143 37.481,39.143 C15.237,39.143 13.597,65.38 11.6,72.795 C9.604,80.21 0.157,90.477 0.157,103.881 C0.157,117.285 7.536,134.681 37.481,134.681 C67.426,134.681 74.779,117.285 74.779,103.881 C74.779,90.477 65.305,80.21 63.309,72.795 Z" id="Stroke-205" stroke="#EE9A4D" stroke-width="4"></path>
+            <path d="M4.731,0.406 C4.731,0.406 -0.226,34.925 33.115,33.17 C43.931,13.57 4.731,0.406 4.731,0.406" id="Fill-206" fill="#00A548"></path>
+            <path d="M4.731,0.406 C4.731,0.406 -0.226,34.925 33.115,33.17 C43.931,13.57 4.731,0.406 4.731,0.406 Z" id="Stroke-207" stroke="#008643" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M25.794,55.403 C23.046,67.256 22.576,78.952 15.875,89.787 C12.393,95.418 10.615,102.438 11.856,109.193 C13.059,115.745 19.273,121.328 25.794,122.687" id="Fill-208" fill="#F6C279"></path>
+            <path d="M25.794,55.403 C23.046,67.256 22.576,78.952 15.875,89.787 C12.393,95.418 10.615,102.438 11.856,109.193 C13.059,115.745 19.273,121.328 25.794,122.687" id="Stroke-209" stroke="#EE9A4D" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>

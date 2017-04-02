@@ -1,0 +1,18 @@
+{
+  "products": [
+    { "id": 1, "name": "Apple", "price": 0.25 },
+    { "id": 2, "name": "Orange", "price": 0.3 },
+    { "id": 3, "name": "Banana", "price": 0.15 },
+    { "id": 4, "name": "Papaya", "price": 0.5, "promotion": true },
+    { "id": 5, "name": "Lemon", "price": 0.2 },
+    { "id": 6, "name": "Ananas", "price": 1.10 },
+    { "id": 7, "name": "Pear", "price": 0.25, "promotion": true },
+    { "id": 8, "name": "Watermelon", "price": 0.8 }
+  ],
+  "cart": [
+    { "id": 1, "quantity": 10 },
+    { "id": 2, "quantity": 4 },
+    { "id": 3, "quantity": 6 },
+    { "id": 4, "quantity": 8 }
+  ]
+}

@@ -1,0 +1,33 @@
+.CartItem {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+
+  &:nth-child(odd) {
+    background-color: #F0F0F0;
+  }
+}
+
+.CartItem__image {
+  height: 30px;
+  width: 30px;
+}
+
+.CartItem__name {
+  flex: 1;
+  padding: 0 10px;
+}
+
+.CartItem__quantity {
+  width: 40px;
+  text-align: right;
+}
+
+.CartItem__price {
+  font-family: monospace;
+  margin-left: 10px;
+}
+
+.CartItem__remove-button {
+  margin-left: 10px;
+}

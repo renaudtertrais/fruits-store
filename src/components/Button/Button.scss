@@ -1,0 +1,60 @@
+.Button {
+  font: inherit;
+  background-color: #FFF;
+  border-radius: 5px;
+  border: 1px solid #CCC;
+  color: inherit;
+  padding: 10px 20px;
+  outline: 0;
+  cursor: pointer;
+
+  &:hover {
+    border-color: #888;
+    color: #111;
+  }
+
+  &:active,
+  &.active,
+  &[disabled] {
+    border-color: #888;
+    color: #111;
+    background-color: #EEE;
+  }
+
+  &[disabled] {
+    opacity: .5;
+  }
+}
+
+.Button--icon {
+  padding: 3px;
+  border-color: transparent;
+  background-color: transparent;
+  font-size: 1.2em;
+
+  &:active,
+  &.active,
+  &[disabled] {
+    background-color: rgba(black, .1);
+  }
+}
+
+.Button--primary {
+  $primary-color: #1E90FF;
+
+  background-color: $primary-color;
+  color: rgba(white, .9);
+  border-color: darken($primary-color, 5%);
+
+  &:hover {
+    border-color: darken($primary-color, 30%);
+    color: white;
+  }
+
+  &:active,
+  &.active {
+    border-color: darken($primary-color, 30%);
+    color: white;
+    background-color: darken($primary-color, 10%);
+  }
+}
