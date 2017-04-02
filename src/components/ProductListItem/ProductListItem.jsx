@@ -62,7 +62,7 @@ const ProductListItem = ({
     {renderPromotion(promotion)}
     <img
       className="ProductListItem__image"
-      src={`/assets/images/${name}.svg`}
+      src={`assets/images/${name}.svg`}
       alt={name}
     />
     <div className="ProductListItem__name">{name}</div>

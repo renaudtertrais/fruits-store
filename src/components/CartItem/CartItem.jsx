@@ -10,7 +10,7 @@ const CartItem = ({ id, name, price, promotion, quantity, removeProduct, updateQ
   <li className="CartItem">
     <img
       className="CartItem__image"
-      src={`/assets/images/${name}.svg`}
+      src={`assets/images/${name}.svg`}
       alt={name}
     />
     <div className="CartItem__name">{name}</div>
